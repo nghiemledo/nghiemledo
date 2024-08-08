@@ -79,6 +79,6 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<div align="right">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&fontColor=skyblue&bgColor=black)
-</div>
+<a href="#" target="_blank">
+  <img src="svg/ledonghiem-quotes.svg" width="846" height="150" alt="nghiemledo-quote" />
+</a>
