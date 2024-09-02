@@ -1,79 +1,19 @@
-<!-- nghiemledo -->
-<a href="#" target="_blank">
-  <img src="svg/nghiemledo.svg" width="1200" alt="nghiemledo-official" />
-</a>
+# 💫 About Me:
+🔭 I’m currently working on:<br>Developing a .NET project and enhancing my skills in .NET Core, including building robust APIs and optimizing database interactions.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects related to web or app development, particularly those involving ASP.NET Core, ReactJS, or Java Spring Boot.<br><br>🤝 I’m looking for help with:<br>Improving my understanding of Docker and containerization to streamline deployment processes.<br><br>🌱 I’m currently learning:<br>Advanced concepts in SQL Server, .NET Framework and Docker to expand my backend development toolkit.<br><br>💬 Ask me about:<br>Building RESTful APIs in .NET and Spring Boot, or creating dynamic front-ends with ReactJS or VueJS.<br><br>📫 How to reach me:<br>nghiemledo@gmail.com<br><br>⚡ Fun fact:<br>I love listening to music—it’s my go-to way to relax and find inspiration.
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=4169E1" alt="Postgresql logo" title="Postgresql" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=019733" alt="Vite logo" title="Vite" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="NghiemLeDo">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="NghiemLeDo">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiemledo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+# 📊 GitHub Stats:
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100067835902243" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nghiemledo-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/nghiem-le-547350318/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nghiemledo-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/12_septber" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nghiemledo-instagram" />
-  </a>
-  <a href="mailto:nghiemledo@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/email.png" alt="nghiemledo-email" />
-  </a>
+![](https://github-readme-stats.vercel.app/api?username=nghiemledo&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nghiemledo&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+### 📑 My Favorites Quote 📑
 <a href="#" target="_blank">
   <img src="svg/ledonghiem-quotes.svg" width="846" height="150" alt="nghiemledo-quote" />
 </a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nghiemledo&icon=0&color=11)](https://visitcount.itsvg.in)
