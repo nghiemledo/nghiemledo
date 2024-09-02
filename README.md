@@ -10,14 +10,14 @@
 
 <div align=center>
   <a href="#" title="NghiemLeDo">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&title_color=61dafb&text_color=ffffff&icon_color=61dafb&layout=compact&border_color=61dafb&hide_border=true&theme=synthwave" />
   </a>
   <a href="#" title="NghiemLeDo">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiemledo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiemledo&show_icons=true&theme=synthwave&hide_border=true" />
   </a>
 </div>
 
-<h1 align="center">📑 My Favorite Quote 📑</h1>
+<h1 align="center">📑 My Favorites Quote 📑</h1>
 
 <a href="#" target="_blank">
   <img src="svg/ledonghiem-quotes.svg" width="846" height="150" alt="nghiemledo-quote" />
