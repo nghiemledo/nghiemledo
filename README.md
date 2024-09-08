@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h1 align="center">📑 My Favorites Quote 📑</h1>
+<h1 align="center">📑 My Favorite Quote 📑</h1>
 
 <a href="#" target="_blank">
   <img src="svg/ledonghiem-quotes.svg" width="846" height="150" alt="nghiemledo-quote" />
