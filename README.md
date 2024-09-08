@@ -10,10 +10,10 @@
 
 <div align=center>
   <a href="#" title="NghiemLeDo">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&title_color=FF0099&text_color=ffffff&icon_color=61dafb&layout=compact&border_color=61dafb&hide_border=true&theme=synthwave" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&text_color=ffffff&icon_color=61dafb&layout=compact&border_color=61dafb&hide_border=true&theme=tokyonight" />
   </a>
   <a href="#" title="NghiemLeDo">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiemledo&title_color=FF0099&show_icons=true&theme=synthwave&hide_border=true&text_color=ffffff" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiemledo&show_icons=true&theme=tokyonight&hide_border=true&text_color=ffffff" />
   </a>
 </div>
 
