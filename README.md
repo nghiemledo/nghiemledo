@@ -6,7 +6,7 @@
 
 <div align=center>
   <a href="#" title="NghiemLeDo">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&text_color=ffffff&icon_color=61dafb&layout=compact&border_color=61dafb&hide_border=true&theme=tokyonight" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemledo&icon_color=61dafb&layout=compact&border_color=61dafb&hide_border=false&theme=swift" />
   </a>
     <a href="#" title="NghiemLeDo">  
       <img align="right" width="434" alt="nghiemledo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nghiemledo?cardType=level&preferLogin=false" /> 
