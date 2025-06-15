@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hi There!, I am
                 <b><a target="_blank" href="#" style="color: #61DAFB">Le Do Nghiem</a></b>
         </samp>
 </h3>
@@ -16,31 +16,31 @@
         </samp>
         <!-- Technologies -->
         <!-- TypeScript -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank">
+        <a href="https://www.typescriptlang.org" target="_blank">
             <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
         </a>
         <!-- React -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <a href="https://react.dev" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-0081A3?style=flat-square&logo=React&logoColor=white">
         </a>
         <!-- React Native -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank">
+        <a href="https://reactnative.dev" target="_blank">
             <img alt="React Native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
         </a>
         <!-- NextJS -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank"><img alt="NextJS"
+        <a href="https://nextjs.org" target="_blank"><img alt="NextJS"
                         src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js&logoColor=white">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        <!-- Golang -->
+        <a href="https://go.dev" target="_blank"><img alt="TailwindCSS"
+                        src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white">
         </a>
         <!-- .NET -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank">
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
             <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
         </a>
         <!-- SQL Server -->
-        <a href="https://github.com/nghiemledo?tab=repositories" target="_blank">
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
             <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
         </a>
 </p>
