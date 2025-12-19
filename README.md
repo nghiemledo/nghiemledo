@@ -39,9 +39,9 @@
         <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
             <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
         </a>
-        <!-- SQL Server -->
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-            <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+        <!-- Angular -->
+        <a href="https://angular.dev" target="_blank">
+            <img alt="Angular" src="https://img.shields.io/badge/-Angular-E91E63?style=flat-square&logo=Angular&logoColor=white">
         </a>
 </p>
 
@@ -51,7 +51,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Le Do Nghiem's GitHub Stats"
-                src="https://github-readme-streak-stats.herokuapp.com?user=nghiemledo&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+                src="https://github-readme-stats.vercel.app/api?username=nghiemledo&theme=default&show_icons=true&hide_border=false&count_private=true" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
