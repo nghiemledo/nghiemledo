@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hi There!, I am
+        <samp>&gt; Hi There! I am
                 <b><a target="_blank" href="#" style="color: #61DAFB">Le Do Nghiem</a></b>
         </samp>
 </h3>
