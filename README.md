@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hi There! I am
-                <b><a target="_blank" href="#" style="color: #61DAFB">Le Do Nghiem</a></b>
+                <b><a target="_blank" href="https://nghiemledo.id.vn" style="color: #61DAFB">Le Do Nghiem</a></b>
         </samp>
 </h3>
 <br>
@@ -51,7 +51,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Le Do Nghiem's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=nghiemledo&theme=default&show_icons=true&hide_border=false&count_private=true" />
+                src="https://github-readme-stats-fast.vercel.app/api/streak?username=nghiemledo&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
